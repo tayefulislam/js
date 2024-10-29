@@ -39,12 +39,19 @@ const number = "01128495454";
 // console.log(number.includes("014"));
 
 
-const startNum = ["015","016","017","018"];
+// const startNum = ["015","016","017","018"];
 
-startNum.forEach((num)=>{
-    if(number.startsWith(num)) return console.log(`${num} = ${number.startsWith(num)}`)
+// startNum.forEach((num)=>{
+//     if(number.startsWith(num)) return console.log(`${num} = ${number.startsWith(num)}`)
 
-})
+// })
+
+
+
+
+const str = 'The quick brown fox jumps over the lazy dog.';
+
+console.table(str.split(' '));
 
 
 
