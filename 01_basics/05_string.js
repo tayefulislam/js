@@ -24,6 +24,11 @@ const nameN = new String("Kita Mori");
 
 console.log(nameN.substring(0,5));
 
+// slice method
+
+console.log(nameN.slice(0,5));
+
+
 
 
 
