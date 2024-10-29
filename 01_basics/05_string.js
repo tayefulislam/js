@@ -1,5 +1,5 @@
-const name = new String("Kita Mori");
-const nameN = "Kita Mori";
+const nameN = new String("Kita Mori");
+// const nameN = "Kita Mori";
 
 // uppercase
 
@@ -21,6 +21,8 @@ const nameN = "Kita Mori";
 /* .endWith() can use in password match system 
 */
 // console.log(nameN.endsWith(name));
+
+console.log(nameN.substring(0,5));
 
 
 
