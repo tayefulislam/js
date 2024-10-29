@@ -22,7 +22,7 @@ const nameN = "Kita Mori";
 */
 // console.log(nameN.endsWith(name));
 
-
+ console.log(nameN.endsWith(name));
 
 
 
