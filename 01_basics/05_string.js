@@ -1,5 +1,5 @@
-const name = new String("Kita Mori");
-const nameN = "Kita Mori";
+const nameN = new String("Kita Mori");
+// const nameN = "Kita Mori";
 
 // uppercase
 
