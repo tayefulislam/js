@@ -29,7 +29,7 @@ const nameN = new String("Kita Mori");
 
 // toLocalLowerCase()
 
-console.log(nameN.toLocaleLowerCase());
+// console.log(nameN.toLocaleLowerCase());
 
 
 
