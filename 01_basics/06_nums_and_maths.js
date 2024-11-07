@@ -31,7 +31,14 @@ console.log(Math.random() * 10);
 const min = 1000;
 const max = 2000;
 
+const createOtp = () => {
+    
+};
+
 for (let i = 0; i < 1000; i++) {
+
+
+    
 
     const makediOne = Math.floor(Math.random() * 10);
     console.log(makediOne)
@@ -40,7 +47,9 @@ for (let i = 0; i < 1000; i++) {
 
 
 
-    console.log(makediOne+ "" +ThreeDi);
+    console.log(makediOne + "" + ThreeDi);
+    
+   
     
     
     
