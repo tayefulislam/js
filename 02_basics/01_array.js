@@ -29,22 +29,26 @@
 // Splice - delete element from main array and return the delete element.
 
 
-const mainArry = [0, 1, 2,3, 4, 5, 6, 7, 8, 9];
+// const mainArry = [0, 1, 2,3, 4, 5, 6, 7, 8, 9];
 
-console.log("A / Main " + mainArry);
+// console.log("A / Main " + mainArry);
 
-const na1 = mainArry.slice(1, 3);
+// const na1 = mainArry.slice(1, 3);
 
-console.log("B / Slice " + na1);
-console.log("C / Main after Slice " + mainArry);
+// console.log("B / Slice " + na1);
+// console.log("C / Main after Slice " + mainArry);
 
-console.log("// Splice Section //")
+// console.log("// Splice Section //")
 
-const na2 = mainArry.splice(1, 3);
+// const na2 = mainArry.splice(1, 3);
 
-console.log("D / Splice " + na2);
+// console.log("D / Splice " + na2);
 
-console.log("E / After Splice "+mainArry);
+// console.log("E / After Splice "+mainArry);
+
+
+
+
 
 
 
